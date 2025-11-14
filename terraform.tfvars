@@ -1,5 +1,6 @@
 # Copyright (c) HashiCorp, Inc.
 # SPDX-License-Identifier: MPL-2.0
+# test manual approvals
 
 ct_management_account_id    = "203918863689"
 log_archive_account_id      = "154263136721"
